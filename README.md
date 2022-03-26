@@ -15,7 +15,7 @@ This project is part of the 50 projects in 50 Days - 50 HTML, CSS & JavaScript! 
 
 ### How to use this Project
 
-Click on search button and the search input will slide to the right! Get motivated and inspired! Free free to use the code.
+Click on search button and the search input will slide to the! Get motivated and inspired! Free free to use the code.
 
 ##### Developed With
 
@@ -27,6 +27,3 @@ Click on search button and the search input will slide to the right! Get motivat
 - [ ] _React_
 - [ ] _Bootstrap_
 - [x] _npm_
-
----
-# hidden-search
