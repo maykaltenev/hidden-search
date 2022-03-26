@@ -13,6 +13,8 @@ This project is part of the 50 projects in 50 Days - 50 HTML, CSS & JavaScript! 
 
 [udemy]: https://www.udemy.com/course/50-projects-50-days/
 
+<br>
+
 ### How to use this Project
 
 Click on search button and the search input will slide to the! Get motivated and inspired! Free free to use the code.
