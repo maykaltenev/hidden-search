@@ -1,6 +1,6 @@
 ### Hidden search
 
-![img](./img/hidden-search.png)
+![img](./hidden-search.png)
 [Test this app yourself](https://maykaltenev.github.io/hidden-search/)
 
 ---
